@@ -34,10 +34,6 @@ Introduced in 1971, the **Keller-Segel model** provides a classical continuum fr
 
 ```text
 .
-├── imagenes/
-│   ├── caso1_keller_segel_evolution_64_0.001_1.0_0.5.gif
-│   ├── ...
-│   └── stripes_pattern_keller_segel_logistico_192...gif
 ├── Patrones.py
 ├── error.py
 ├── soluciones_manufacturadas.py
